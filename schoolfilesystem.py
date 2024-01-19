@@ -5,7 +5,7 @@ import pandas as pd
 import requests
 import csv
 import collections
-import dictionary
+
 
 class SchoolAssessmentSystem:
     def __init__(self, data):
